@@ -1,0 +1,21 @@
+{
+  "name": "sublime-color",
+  "displayName": "sublime-color",
+  "description": "inspired by sublimetext",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sublime Color",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sublime Color-color-theme.json"
+      }
+    ]
+  }
+}
